@@ -1,6 +1,6 @@
-## 🙂 Olá, me chamo Erick
+## 🙂 Hello, I'm Erick
 
-Sou um programador FullStack Junior e estudante de Ciência da Computação. Gosto de desafios e de programar coisas divertidas nas horas vagas.
+I'm a fullstack junior programmer and computing science student at UFAL. I really like challenges and programming fun things in my free time.
 
 <a href="https://github.com/erickmacena1">
   <div>
