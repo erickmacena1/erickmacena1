@@ -1,7 +1,8 @@
 ## 🙂 Hello, I'm Erick
 
-I'm a fullstack junior programmer and computing science student at UFAL. I really like challenges and programming fun things in my free time.
+I'm a fullstack programmer. I really like challenges and programming fun things in my free time.
 
+<!--
 <a href="https://github.com/erickmacena1">
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickmacena1&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -24,11 +25,12 @@ I'm a fullstack junior programmer and computing science student at UFAL. I reall
     <img align="center" alt="JS ICON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
   </div>
   </a>
+
+  -->
   
   ## Contacts 
   
   <div>
     <a href="https://linkedin.com/in/erickmacena/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:erickmacena2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/erick.macena1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
